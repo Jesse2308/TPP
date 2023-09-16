@@ -1,0 +1,35 @@
+
+
+.grey {display: inline-flex;            /* class tag for "img" on TPP.html file, makes the images on website  display in order */
+    margin: 22px;
+    border:10px;
+
+}
+
+.green {display: inline-flex;
+    margin: 20px;
+    border: 10px;
+}
+
+.info {display: contents;    
+}                                                   /*class tag for area of submit action*/
+
+body {background-color: cadetblue;   /*class tag to change background color for main webiste*/
+}
+
+.welcome {
+    position: absolute;
+  z-index: 9;
+    bottom: 40%;
+    left: 44%;                          /*class tag to position "P tag"*/
+    font-size: 40px;
+}
+
+.gallery  {
+    position: absolute;
+    z-index: 9;
+    bottom: 9%;
+    left: 54%;
+    font-size: 40px;
+
+}
